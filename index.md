@@ -1,3 +1,3 @@
-## Welcome to GitHub Pages
+## Wow, bu harikaymış.
 
-You can use the [editor on GitHub](https://github.com/theDuhan/Dev/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+şimdi geriye kaldı site yazmak Q-Q
